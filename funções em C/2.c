@@ -1,13 +1,14 @@
+//referÃªncia: https://youtu.be/OrF2ydZIELk
 #include <stdio.h>
 #include <stdlib.h>
-//Exemplo de função:
+//Exemplo de funÃ§Ã£o:
 int quadrado (int a){
 	return a * a;
 } 
 
 int main(){
-	/*Forma geral de uma função
-	tipo nome_função (parâmetros){
-		conjunto de declarações e comandos */
+	/*Forma geral de uma funÃ§Ã£o
+	tipo nome_funÃ§Ã£o (parÃ¢metros){
+		conjunto de declaraÃ§Ãµes e comandos */
 	}
 }
